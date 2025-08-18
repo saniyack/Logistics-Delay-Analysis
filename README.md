@@ -2,7 +2,7 @@
 
  **LOGISTICS DELAY ANALYSIS**  
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c4dd278a-eb1f-479e-a6d8-6bdcdd346ea5" />
----
+
 
 ## Overview  
 This project analyzes **144K+ delivery records** to uncover:  
@@ -11,7 +11,6 @@ This project analyzes **144K+ delivery records** to uncover:
 - **Impact of route type, source centers, and trip duration**  
 - **Interactive dashboards** for real-time decision-making  
 
----
 
 ## Key Insights  
 - Only **10.3% of deliveries** were on time → **89.7% delayed**
@@ -20,7 +19,6 @@ This project analyzes **144K+ delivery records** to uncover:
 - **Source IND000000ACB** contributed **13.6% of total delays**
 - **Weekday deliveries** dominated (73.7%) compared to weekends (26.3%)  
 
----
 
 ## Tech Stack  
 | Tool        | Purpose |
@@ -29,7 +27,6 @@ This project analyzes **144K+ delivery records** to uncover:
 | **R**       | Statistical tests (t-test, ANOVA, Z-test, Chi-square, F-test) |
 | **Tableau** | Interactive dashboards & storytelling |  
 
----
 
 ##  Tableau Dashboards  
 1. **Delay Trend Over Time** – min delay on Day 2, max on Day 22  
@@ -38,8 +35,6 @@ This project analyzes **144K+ delivery records** to uncover:
 4. **Summary Table** – on-time deliveries, longest delay, avg delay, total trips  
 5. **Story Mode** – sequential walkthrough of delivery insights  
 
-
----
 
 ## Dataset  
 **Source:**  Logistics Dataset (`delhivery.csv`)  
