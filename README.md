@@ -1,6 +1,4 @@
-
-
-                                        **LOGISTICS DELAY ANALYSIS**  
+**LOGISTICS DELAY ANALYSIS**  
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c4dd278a-eb1f-479e-a6d8-6bdcdd346ea5" />
 
 
