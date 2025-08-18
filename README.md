@@ -1,10 +1,10 @@
 
 
- **A multi-tool analysis of logistics performance, delivery delays, and route optimization using Python, R, and Tableau.**  
+ **LOGISTICS DELAY ANALYSIS**  
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c4dd278a-eb1f-479e-a6d8-6bdcdd346ea5" />
 ---
 
-## 📌 Overview  
+## Overview  
 This project analyzes **144K+ delivery records** to uncover:  
 - **Delay trends** across routes, destinations, and days  
 - **On-time vs delayed deliveries** and contributing factors  
@@ -13,16 +13,16 @@ This project analyzes **144K+ delivery records** to uncover:
 
 ---
 
-## 📊 Key Insights  
-✅ Only **10.3% of deliveries** were on time → **89.7% delayed**  
-✅ **Full Truck Load (FTL)** routes had higher delays & variation  
-✅ **Haryana** reported the **longest delivery duration (164K hrs)**, Tamil Nadu the shortest (20.7K hrs)  
-✅ **Source IND000000ACB** contributed **13.6% of total delays**  
-✅ **Weekday deliveries** dominated (73.7%) compared to weekends (26.3%)  
+## Key Insights  
+- Only **10.3% of deliveries** were on time → **89.7% delayed**
+- **Full Truck Load (FTL)** routes had higher delays & variation
+- **Haryana** reported the **longest delivery duration (164K hrs)**, Tamil Nadu the shortest (20.7K hrs)
+- **Source IND000000ACB** contributed **13.6% of total delays**
+- **Weekday deliveries** dominated (73.7%) compared to weekends (26.3%)  
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 | Tool        | Purpose |
 |-------------|---------|
 | **Python**  | Data cleaning, feature engineering, EDA, delay trend analysis |
@@ -31,17 +31,17 @@ This project analyzes **144K+ delivery records** to uncover:
 
 ---
 
-## 📈 Tableau Dashboards  
-1. 📅 **Delay Trend Over Time** – min delay on Day 2, max on Day 22  
-2. 🗺️ **Top 10 Destinations** – delays highest in **Chhattisgarh**, lowest in **Madhya Pradesh**  
-3. ⏱️ **Avg Delivery Duration by State** – Haryana vs Tamil Nadu  
-4. 📊 **Summary Table** – on-time deliveries, longest delay, avg delay, total trips  
-5. 📖 **Story Mode** – sequential walkthrough of delivery insights  
+##  Tableau Dashboards  
+1. **Delay Trend Over Time** – min delay on Day 2, max on Day 22  
+2. **Top 10 Destinations** – delays highest in **Chhattisgarh**, lowest in **Madhya Pradesh**  
+3. **Avg Delivery Duration by State** – Haryana vs Tamil Nadu  
+4. **Summary Table** – on-time deliveries, longest delay, avg delay, total trips  
+5. **Story Mode** – sequential walkthrough of delivery insights  
 
 
 ---
 
-## 📂 Dataset  
+## Dataset  
 **Source:**  Logistics Dataset (`delhivery.csv`)  
 **Size:** ~144,000 records  
 **Key Columns:**  
