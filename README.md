@@ -1,7 +1,7 @@
 
 
  **A multi-tool analysis of logistics performance, delivery delays, and route optimization using Python, R, and Tableau.**  
-
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c4dd278a-eb1f-479e-a6d8-6bdcdd346ea5" />
 ---
 
 ## 📌 Overview  
