@@ -48,5 +48,9 @@ This project analyzes **144K+ delivery records** to uncover:
 - `trip_duration_hours`, `route_type`  
 - `source_center`, `destination_center`  
 - `segment_actual_time`, `segment_osrm_time`  
-- `delay_minutes`, `day_type`  
+- `delay_minutes`, `day_type`
+
+  ## Dashboard preview
+
+  <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/5de2e597-b500-4d90-ad72-622172d66fe9" />
 
